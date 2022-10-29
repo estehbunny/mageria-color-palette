@@ -2,7 +2,7 @@
 
 <p align="center" style="text-align:center"><img src="mageria-banner.png" alt="Hi-Mageria Banner" /></p>
 
-**Mageria** (or formally as "Hi-Mageria") is a color palette inspired from magic & mystical color palette, with purple as primary color & has 6 accent color (with shades). Mageria color palette is 100% based from **PANTONE® Fashion, Home + Interiors (FHI)** color palette, with most colors based on FHI Paper TPG (Lacquer Coating on Paper) except black (based on FHI Cotton TCX (Dye on Cotton Fabric) for blackness).
+**Mageria** (or formally as "Hi-Mageria") is a color palette inspired from magic & mystical color palette, with purple as primary color & has 6 accent color (with shades). Mageria color palette is 100% based from **PANTONE® Fashion, Home + Interiors (FHI)** color palette, with most colors based on **FHI Paper TPG _(Lacquer Coating on Paper)_** except black (based on **FHI Cotton TCX _(Dye on Cotton Fabric)_** for blackness).
 
 This color palette can be used for design, art, and even in development world, for example Base16 & terminal color scheme, which designed for terminal & syntax highlighting.
 
@@ -36,11 +36,11 @@ Generally, Mageria color palette divided into 3 sections:
 
 ### Shades of Purple
 
-Pantone® FHI TCX (Lacquer Coating on Paper)
+PANTONE® FHI TCX (Lacquer Coating on Paper)
 
 ![#2A2A35](https://via.placeholder.com/40/2A2A35/2A2A35.png)![#41354D](https://via.placeholder.com/40/41354D/41354D.png)![#5F4E72](https://via.placeholder.com/40/5F4E72/5F4E72.png)![#A692BA](https://via.placeholder.com/40/A692BA/A692BA.png)![#D1ACCE](https://via.placeholder.com/40/D1ACCE/D1ACCE.png)![#F0EEE9](https://via.placeholder.com/40/F0EEE9/F0EEE9.png)
 
-Pantone® FHI TPG (Dye on Cotton Fabric)
+PANTONE® FHI TPG (Dye on Cotton Fabric)
 
 ![#3B3C49](https://via.placeholder.com/40/3B3C49/3B3C49.png)![#504363](https://via.placeholder.com/40/504363/504363.png)![#67577A](https://via.placeholder.com/40/67577A/67577A.png)![#A894BD](https://via.placeholder.com/40/A894BD/A894BD.png)![#D0ACD0](https://via.placeholder.com/40/D0ACD0/D0ACD0.png)![#F1F0EC](https://via.placeholder.com/40/F1F0EC/F1F0EC.png)
 
@@ -64,7 +64,7 @@ Additional shades
 
 ### Accents
 
-Pantone® FHI TCX (Lacquer Coating on Paper)
+PANTONE® FHI TCX (Lacquer Coating on Paper)
 
 ![#AA182B](https://via.placeholder.com/40/AA182B/AA182B.png)![#D75C5D](https://via.placeholder.com/40/D75C5D/D75C5D.png)
 ![#FA7A35](https://via.placeholder.com/40/FA7A35/FA7A35.png)![#FFA74F](https://via.placeholder.com/40/FFA74F/FFA74F.png)
@@ -73,7 +73,7 @@ Pantone® FHI TCX (Lacquer Coating on Paper)
 ![#0072B5](https://via.placeholder.com/40/0072B5/0072B5.png)![#4D91C6](https://via.placeholder.com/40/4D91C6/4D91C6.png)
 ![#00B89F](https://via.placeholder.com/40/00B89F/00B89F.png)![#77CFB7](https://via.placeholder.com/40/77CFB7/77CFB7.png)
 
-Pantone® FHI TPG (Dye on Cotton Fabric)
+PANTONE® FHI TPG (Dye on Cotton Fabric)
 
 ![#AC303E](https://via.placeholder.com/40/AC303E/AC303E.png)![#D86A6B](https://via.placeholder.com/40/D86A6B/D86A6B.png)
 ![#FD823E](https://via.placeholder.com/40/FD823E/FD823E.png)![#FFA351](https://via.placeholder.com/40/FFA351/FFA351.png)
@@ -106,35 +106,30 @@ This color palette has 3 variants, where basis color are based on **PANTONE® FH
 
 ![Palette Info TPG](pantone/mageria-palette-info-tpg.png)
 
-<style>
-   .color-card {
-      max-width: 7.5rem;
-   }
-</style>
 <div>
    <div class="row">
-      <img class="color-card" src="pantone/TPG/shades-1.png" />
-      <img class="color-card" src="pantone/TPG/shades-2.png" />
-      <img class="color-card" src="pantone/TPG/shades-3.png" />
-      <img class="color-card" src="pantone/TPG/shades-4.png" />
-      <img class="color-card" src="pantone/TPG/shades-5.png" />
-      <img class="color-card" src="pantone/TPG/shades-7.png" />
+      <img width="100" src="pantone/TPG/shades-1.png" />
+      <img width="100" src="pantone/TPG/shades-2.png" />
+      <img width="100" src="pantone/TPG/shades-3.png" />
+      <img width="100" src="pantone/TPG/shades-4.png" />
+      <img width="100" src="pantone/TPG/shades-5.png" />
+      <img width="100" src="pantone/TPG/shades-7.png" />
    </div>
    <div class="row">
-      <img class="color-card" src="pantone/TPG/accent-1.png" />
-      <img class="color-card" src="pantone/TPG/accent-3.png" />
-      <img class="color-card" src="pantone/TPG/accent-5.png" />
-      <img class="color-card" src="pantone/TPG/accent-7.png" />
-      <img class="color-card" src="pantone/TPG/accent-9.png" />
-      <img class="color-card" src="pantone/TPG/accent-11.png" />
+      <img width="100" src="pantone/TPG/accent-1.png" />
+      <img width="100" src="pantone/TPG/accent-3.png" />
+      <img width="100" src="pantone/TPG/accent-5.png" />
+      <img width="100" src="pantone/TPG/accent-7.png" />
+      <img width="100" src="pantone/TPG/accent-9.png" />
+      <img width="100" src="pantone/TPG/accent-11.png" />
    </div>
    <div class="row">
-      <img class="color-card" src="pantone/TPG/accent-2.png" />
-      <img class="color-card" src="pantone/TPG/accent-4.png" />
-      <img class="color-card" src="pantone/TPG/accent-6.png" />
-      <img class="color-card" src="pantone/TPG/accent-8.png" />
-      <img class="color-card" src="pantone/TPG/accent-10.png" />
-      <img class="color-card" src="pantone/TPG/accent-12.png" />
+      <img width="100" src="pantone/TPG/accent-2.png" />
+      <img width="100" src="pantone/TPG/accent-4.png" />
+      <img width="100" src="pantone/TPG/accent-6.png" />
+      <img width="100" src="pantone/TPG/accent-8.png" />
+      <img width="100" src="pantone/TPG/accent-10.png" />
+      <img width="100" src="pantone/TPG/accent-12.png" />
    </div>
 </div>
 
@@ -144,28 +139,28 @@ This color palette has 3 variants, where basis color are based on **PANTONE® FH
 
 <div>
    <div class="row">
-      <img class="color-card" src="pantone/TCX/shades-1.png" />
-      <img class="color-card" src="pantone/TCX/shades-2.png" />
-      <img class="color-card" src="pantone/TCX/shades-3.png" />
-      <img class="color-card" src="pantone/TCX/shades-4.png" />
-      <img class="color-card" src="pantone/TCX/shades-5.png" />
-      <img class="color-card" src="pantone/TCX/shades-7.png" />
+      <img width="100" src="pantone/TCX/shades-1.png" />
+      <img width="100" src="pantone/TCX/shades-2.png" />
+      <img width="100" src="pantone/TCX/shades-3.png" />
+      <img width="100" src="pantone/TCX/shades-4.png" />
+      <img width="100" src="pantone/TCX/shades-5.png" />
+      <img width="100" src="pantone/TCX/shades-7.png" />
    </div>
    <div class="row">
-      <img class="color-card" src="pantone/TCX/accent-1.png" />
-      <img class="color-card" src="pantone/TCX/accent-3.png" />
-      <img class="color-card" src="pantone/TCX/accent-5.png" />
-      <img class="color-card" src="pantone/TCX/accent-7.png" />
-      <img class="color-card" src="pantone/TCX/accent-9.png" />
-      <img class="color-card" src="pantone/TCX/accent-11.png" />
+      <img width="100" src="pantone/TCX/accent-1.png" />
+      <img width="100" src="pantone/TCX/accent-3.png" />
+      <img width="100" src="pantone/TCX/accent-5.png" />
+      <img width="100" src="pantone/TCX/accent-7.png" />
+      <img width="100" src="pantone/TCX/accent-9.png" />
+      <img width="100" src="pantone/TCX/accent-11.png" />
    </div>
    <div class="row">
-      <img class="color-card" src="pantone/TCX/accent-2.png" />
-      <img class="color-card" src="pantone/TCX/accent-4.png" />
-      <img class="color-card" src="pantone/TCX/accent-6.png" />
-      <img class="color-card" src="pantone/TCX/accent-8.png" />
-      <img class="color-card" src="pantone/TCX/accent-10.png" />
-      <img class="color-card" src="pantone/TCX/accent-12.png" />
+      <img width="100" src="pantone/TCX/accent-2.png" />
+      <img width="100" src="pantone/TCX/accent-4.png" />
+      <img width="100" src="pantone/TCX/accent-6.png" />
+      <img width="100" src="pantone/TCX/accent-8.png" />
+      <img width="100" src="pantone/TCX/accent-10.png" />
+      <img width="100" src="pantone/TCX/accent-12.png" />
    </div>
 </div>
 
@@ -177,7 +172,7 @@ This color palette has 3 variants, where basis color are based on **PANTONE® FH
 
 **Mageria** color scheme is first terminal color 100% based from **PANTONE® Fashion, Home + Interiors (FHI)** System, with most colors based on FHI Paper TPG (Lacquer Coating on Paper) except black (based on FHI Cotton TCX (Dye on Cotton Fabric) for blackness). Each colors represents PANTONE® FHI number with following colorname as follows:
 
-| Color ID | Color Name | Pantone Color |
+| Color ID | Color Name | PANTONE Color |
 | :------: | ---------- | ------------- |
 | 0 | Black | 19-3924 TCX Night Sky |
 | 1 | Red | 18-1657 TPG Salsa |
@@ -198,7 +193,7 @@ This color palette has 3 variants, where basis color are based on **PANTONE® FH
 
 Also, the Base16 colorscheme version is adapted from PANTONE FHI System too, with represented Base16 colorlist as follows:
 
-| Base16 color | Color Preview | Pantone Color |
+| Base16 color | Color Preview | PANTONE Color |
 | :----------: | :-----------: | ------------- |
 | base00 | ![#1B1A21](https://via.placeholder.com/20/1B1A21/1B1A21.png) | *darkened version of 19-3924 TCX* |
 | base01 | ![#25252D](https://via.placeholder.com/20/25252D/25252D.png) | 19-3924 TCX night sky |
