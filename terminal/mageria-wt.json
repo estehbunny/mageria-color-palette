@@ -1,0 +1,22 @@
+{
+  "name": "Mageria",
+  "foreground": "#f1f0ec",
+  "background": "#1b1a21",
+  "cursorColor": "#f1f0ec",
+  "black": "#25252d",
+  "red": "#ac303e",
+  "green": "#fd823e",
+  "yellow": "#cd497d",
+  "blue": "#57508c",
+  "purple": "#3078b4",
+  "cyan": "#1dbaa4",
+  "white": "#d0acd0",
+  "brightBlack": "#67577a",
+  "brightRed": "#d86a6b",
+  "brightGreen": "#ffa351",
+  "brightYellow": "#e683a9",
+  "brightBlue": "#736c99",
+  "brightPurple": "#508bc3",
+  "brightCyan": "#71ceb4",
+  "brightWhite": "#f1f0ec"
+}
